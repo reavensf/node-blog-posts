@@ -1,0 +1,19 @@
+{
+  "name": "blog-post-npm",
+  "version": "1.0.0",
+  "description": "Playing with blog post and node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reavensf/node-blog-posts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reavensf/node-blog-posts/issues"
+  },
+  "homepage": "https://github.com/reavensf/node-blog-posts#readme"
+}
