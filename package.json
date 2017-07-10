@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/reavensf/node-blog-posts/issues"
   },
-  "homepage": "https://github.com/reavensf/node-blog-posts#readme"
+  "homepage": "https://github.com/reavensf/node-blog-posts#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "uuid": "^3.1.0"
+  }
 }
